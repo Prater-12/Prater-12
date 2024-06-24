@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prater-12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_for_Entrepreneurship_Cell%2C_IITB.jpg" height="150" alt="E-Cell Logo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prater-12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
 
 ###
